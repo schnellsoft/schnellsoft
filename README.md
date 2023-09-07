@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @schnellsoft
-- 👀 I’m interested in web components (Lit+TypeScript) that may be integrated anywhere (Angular, React, etc) and OSX/iOS/Android apps
-- 🌱 I’m currently learning chess
-- 💞️ I’m looking to collaborate on caring cats
+- 👀 I’m interested in web components (Lit+TypeScript) that may be integrated anywhere (Angular, React, older CMS) and OSX/iOS/Android apps
 - 📫 Contact me at deltasoft7@gmail.com
 
 <!---
